@@ -1,5 +1,5 @@
-* C++ Concurrency
-  * [downdemo笔记](/doc/concurrency/docs/index.md)
+* downdemo的C++并发编程笔记
+  * [0.概述](/doc/concurrency/docs/index.md)
   * [1.线程管理](/doc/concurrency/docs/01_managing_thread.md)
   * [2.线程间共享数据](/doc/concurrency/docs/02_sharing_data_between_thread.md)
   * [3.同步并发操作](/doc/concurrency/docs/03_synchronizing_concurrent_operation.md)
